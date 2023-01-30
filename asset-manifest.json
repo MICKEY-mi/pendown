@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pendown/static/css/main.d2de0aa4.css",
+    "main.js": "/pendown/static/js/main.4832059c.js",
+    "static/js/787.5aa4294f.chunk.js": "/pendown/static/js/787.5aa4294f.chunk.js",
+    "static/media/firstyear-slybuss.pdf": "/pendown/static/media/firstyear-slybuss.23e289ced9d87b0df019.pdf",
+    "static/media/bg.png": "/pendown/static/media/bg.869d33bdba84a74dfaba.png",
+    "static/media/bg1.png": "/pendown/static/media/bg1.d57506cf6436e0a25821.png",
+    "static/media/blogimg.png": "/pendown/static/media/blogimg.95172024879a88e3f1fa.png",
+    "static/media/logo-3_new.png": "/pendown/static/media/logo-3_new.23b4677431e8bc1825d1.png",
+    "static/media/plus.png": "/pendown/static/media/plus.f5d4d283910a71769470.png",
+    "index.html": "/pendown/index.html",
+    "static/media/delete.svg": "/pendown/static/media/delete.c184eb9e41969d49b9cae112eb516337.svg",
+    "main.d2de0aa4.css.map": "/pendown/static/css/main.d2de0aa4.css.map",
+    "main.4832059c.js.map": "/pendown/static/js/main.4832059c.js.map",
+    "787.5aa4294f.chunk.js.map": "/pendown/static/js/787.5aa4294f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2de0aa4.css",
+    "static/js/main.4832059c.js"
+  ]
+}
