@@ -1,6 +1,6 @@
 {
   "name": "pendown",
-  "homepage": "https://mickey-mi.github.io/pendown/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
