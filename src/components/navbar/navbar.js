@@ -45,7 +45,7 @@ function navbar() {
           </li>
 
           <li class="services">
-            <a href="/note">
+            <a href="https://mickey-mi.github.io/takenotes/">
               TakeNotes
             </a>
           </li>
